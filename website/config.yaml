@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "website ikna"
 theme: "./.."
 relativeURLs: true
 
@@ -31,28 +31,28 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "ikna aprilia indriani"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "student"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
+  instagram: "/https://instagram.com/iknaaprl"
   facebook: "https://facebook.com"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, I'm Ikna"
+  descripe_l2_person: "This is my biodata [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
+    - name: make up
+      percentage: 75
+    - name: masak
+      percentage: 40
+    - name: berenang
+      percentage: 60
+    - name: rebahan
       percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
-      percentage: 70
 
   # Experience
   disable_experience: false
@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "SD"
+      branch: "Lempeni"
+      university: "SDN 02 Lempeni"
+      startedyear: "2010"
+      graduation: "2016"
+    - degree: "SMP"
+      branch: "Tempeh"
+      university: "SMP Negeri 01 Tempeh"
+      startedyear: "2016"
+      graduation: "2019"
+    - degree: "SMK"
+      branch: "Pasirian"
+      university: "SMK Negeri Pasirian"
+      startedyear: "2019"
+      graduation: "_"
 
   # Projects
   disable_projects: false
@@ -129,7 +129,8 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  email: "iknaaprilia@gmail.com"
+  number_phone: 085853889127
 
   # Footer
   socialiconfooter: true
